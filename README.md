@@ -15,6 +15,16 @@
 - **技术文章**：精选文章列表
 - **响应式布局**：桌面端与移动端自适应
 
+## 截图
+
+### 首页 Hero
+
+![yuan-website Hero](docs/screenshots/yuan-website-hero.png)
+
+### 完整首页
+
+![yuan-website 完整页面](docs/screenshots/yuan-website-full.png)
+
 ## 技术栈
 
 | 层 | 技术 |
